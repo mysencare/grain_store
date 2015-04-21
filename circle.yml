@@ -1,0 +1,12 @@
+machine:
+  timezone:
+    Europe/London # Set the timezone
+
+  # Version of ruby to use
+  ruby:
+    version:
+      2.1.5
+
+  # env variable
+  environment:
+    APP_ENV: test
